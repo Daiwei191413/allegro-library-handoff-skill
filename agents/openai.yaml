@@ -1,0 +1,8 @@
+interface:
+  display_name: "Allegro 封装库交接"
+  short_description: "追踪 DRA、PSM、PAD 到目标板采纳"
+  brand_color: "#C44900"
+  default_prompt: "Use $allegro-library-handoff-skill to verify and adopt this Allegro library candidate through an isolated, traceable handoff."
+policy:
+  allow_implicit_invocation: true
+
